@@ -3,6 +3,7 @@ This website is for demonstration purposes.
 
 ## Getting Started
 As this page is just a static page you only need to load the page in the browser.
+[View the page here!](https://leot42.github.io/horiseon-public-relations-page/)
 
 ![alt text](https://github.com/leot42/horiseon-public-relations-page/blob/develop/assets/images/readme-screenshot.png?raw=true)
 
