@@ -4,6 +4,8 @@ This website is for demonstration purposes.
 ## Getting Started
 As this page is just a static page you only need to load the page in the browser.
 
+![alt text](https://github.com/leot42/horiseon-public-relations-page/blob/develop/assets/images/readme-screenshot.png?raw=true)
+
 ## Authors
 [Lionel Townsend](https://github.com/leot42) 
 
